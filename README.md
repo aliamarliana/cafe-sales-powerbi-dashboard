@@ -48,7 +48,7 @@ The dashboard focuses on three main objectives:
   - Recommended highlighting top sellers through marketing campaigns and bundling strategies.  
 
 ### 2. **Staffing Optimization**
-- **Revenue by Hour (Bar Chart)** – peak between 6 AM and 10 AM (highest at 9 AM).  
+- **Revenue by Hour (Bar Chart)** – peak between 7 AM and 10 AM (highest at 10 AM).  
 - **Transactions by Day & Hour (Heatmap)** – Monday and Friday mornings are busiest.  
 - **Recommendations**:  
   - Increase staffing during peak hours.  
